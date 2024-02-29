@@ -1,0 +1,22 @@
+<?php
+return [
+    'greeting' => 'Hello',
+    'time'=>'Working time',
+    'phone'=>'Call',
+    'placing_an_order'=>'Placing an order',
+    'consultation'=>'Get a free consultation',
+    'phone_number'=>'Phone number',
+    'to_send'=>'To send',
+    'assortiment'=>'Assortiment',
+    'all_of_them'=>'All of them',
+    'name'=>'Name',
+    'download'=> 'Download',
+    'download_text'=>'Download the entire assortment list!',
+    'download_consultation'=>'The consultation is absolutely free, and you are not required to make any payment!',
+    'information_title'=>'Why do customers choose us?',
+    'commentary'=>'What our customers think',
+    'furniture_consultation'=>'Get a free furniture consultation:',
+    'question'=>'Have a question?',
+    'question_text'=>'If you have any questions, contact us! We will answer any question!',
+    'sponsors'=>'Within our customers',
+];
